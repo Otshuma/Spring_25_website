@@ -10,13 +10,21 @@
         transform: rotate(20deg);
     }
 
+    
+
     h3 {
         color: rgb(81, 255, 0);
         transform: rotate(-60deg);
     }
 
+    h4 {
+        color: rgb(14, 178, 153);
+        transform: rotate(60deg);
+    }
+
     img {
         transform: rotate(10deg);
+
     }
 
     P { 
