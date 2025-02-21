@@ -2,6 +2,21 @@
 
     h1 {
     color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h2 {
+        color: blue;
+        transform: rotate(20deg);
+    }
+
+    h3 {
+        color: rgb(81, 255, 0);
+        transform: rotate(-60deg);
+    }
+
+    img {
+        transform: rotate(10deg);
     }
 
     P { 
@@ -18,7 +33,7 @@
         font-size: 60px;
         padding: 80px;
         background-color: aqua;
-        transform: rotate(90deg);
+        transform: rotate(45deg);
     }
 
 
