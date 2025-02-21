@@ -18,6 +18,7 @@
         font-size: 60px;
         padding: 80px;
         background-color: aqua;
+        transform: rotate(90deg);
     }
 
 
@@ -26,6 +27,7 @@
         color: rgb(219, 15, 199);
         font-size: 20px;
         padding: 200px;
+        
     }
 
 
@@ -35,6 +37,7 @@
         font-size: 30px;
         font-kerning: 10px;
         padding: 20px;
+        transform: rotate(-90deg);
     }
 
 </style>
