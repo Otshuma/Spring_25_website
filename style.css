@@ -42,8 +42,12 @@
         padding: 80px;
         background-color: aqua;
         transform: rotate(45deg);
+        animation: mymove 5s infinite;
     }
-
+    
+    @keyframes mymove {
+        50% {transform: rotate(180deg);}
+      }
 
     .good {
         font-family: serif;
